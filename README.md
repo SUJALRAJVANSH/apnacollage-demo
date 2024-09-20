@@ -1,4 +1,4 @@
 # apnacollage-demo
 This is my Git Repository
 <br>
-Author - Sujal Rajvansh
+Author - Sujal Rajvansh (Ishu)
